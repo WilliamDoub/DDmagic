@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ddmagic",
+  "private_key_id": "513f5512919e19a37413ab677d566ca9c18703e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDg/LT3EvIONsRe\nJN/CezEDkMeDZDuoQKvvk1SZzEG2HDy2DUqE3YZUHFH2CMhs7CQqpTyogQ5RRe+u\nfUfqravi2lIDwLBh3EEYdiMvxX/PD2TnB9d2XscLhH5Xjqaqs7TMpKUjfMS5MKIM\nqbXa8SEV6NRrOOpLD5A+KwWRONDXEJCCCYaiXARAJMHcojPfj78fpRaf2N4MyN0Y\nEuE5HA+s+EbFMe/IFyDPaV8Uxmoy7XucETG29XVPCCIbT3nnzKdbP6W8eQGzW4yp\njzcKGUIXFg+SpEbABsGrjTMgkR9yaPe9sf5Sz1oFRqd4KWqt6dflGvIaYQqMnRHb\nMZyUhcg3AgMBAAECggEABmQ6qKsGhClBvaiJUGQUvPr+JmYD9kBIFVlEVc4vFU/x\nPzBarDJpRrbU2T5GO1nsbE25AgYQjkLqj5sKUckEEUDBUOjGpsqnPfbbm9ed5uST\nQ3Qkk3Dj1+VR4lJ9VGu6Hvb6cTfYYUGkonyojumH8BbNZtjKE/HQPjcVd5rhy/Ck\nSpUf3R7YTkOyw59xx27Z4gpcAKAnH7F4zTRoVAa8Vn8v927dEUz0s3mLBjUt49XB\npDc5hRV5/PuNR1LvriNvw3Wskxabv335iDD6PFF5CfM7m1Ko4GNlS4MtxNMGc2UK\nMXFm9NhoiaV7iNj0Dx7DcBkAaxLIa+NjG2IgMMUWiQKBgQDySBxfh9T6u2dUpyEY\nfw8yav9c+A8DgOPBQJsHSWpsM5NoiQsBrpXU1PPo4WKjyJDhlH/fymCLjOsJPZfB\nvXlT+wPpDzADus+s9fGsvw88cMurdhQPZB47T1KKFrKloFK0EYPLHylWbRG6RPJZ\npF2SAWWJGBYcfTygcPWka9bxuwKBgQDtuekTi3TF/YVEYcdQm1k8XWIYnayu0JBP\n+L4DgxYoL57+tcEOJHJrPfA8nzfC3bEEWXRQ61EykiJJSJvxjFIE54eM8QxSTOZ7\n4VxcYcth4d+yKdY7ZRxoCkSow1vzAvhRd2Fu3uzNVDkqCk9jv3yTfKHXcJGQqMyv\nS23w4r0ttQKBgQDWej+j0fsYew3eQpVpuhEZ8N5ezrl7wH3edfLHYJZ1crLrt2Wm\n94ZsAphpcByCIOsgxvTsh5sv7m+inoPZXoIpdezgRDGdG6L82jw3UGuMdc3W25Cm\nj1qz5mSLGczMEkEkZtzk05EkkSlAXAiuknLC7bmUw13Pmo4w+c5633xIQQKBgQCw\nfThj8UHlh907slf2KQ8r+KxOWCkOs/qf1KzFELoPZaNluGw2YqqroZVMfGw6eLnl\n37+yH7HtmH5p58UWpDV0PKvu4Dpkk4D98YbPcy86YSXhMJxDBkL7nrvwivElzkuq\nt7WXSVuG6QNzian9BPmoyXuh5Ym8WwVzEs3xa3RFjQKBgQChKl8BnT6PtjfE+5e3\nMkGOdGa81hTp+XGoJk/rQAh+Wpxjq0EILo+nOtn7I+v54dYCq9pUJE0FFkht0DgP\n9O7EXMw1Gik93G2qQ6LoFBEtcGD4JfjxlPaRiVBUzaAihMeOjfgDS2hsJwrz64L6\n5LnMXbUIppVhgvVvZVc/2urNgg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ddmagic-service@ddmagic.iam.gserviceaccount.com",
+  "client_id": "108442772356833328067",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ddmagic-service%40ddmagic.iam.gserviceaccount.com"
+}
