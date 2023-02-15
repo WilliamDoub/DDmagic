@@ -2,7 +2,7 @@
   "type": "service_account",
   "project_id": "ddmagic",
   "private_key_id": "*********",
-  "private_key": "-----BEGIN PRIVATE KEY-----\n*****************-----END PRIVATE KEY-----\n",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n******************************************-----END PRIVATE KEY-----\n",
   "client_email": "ddmagic-service@ddmagic.iam.gserviceaccount.com",
   "client_id": "108442772356833328067",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
