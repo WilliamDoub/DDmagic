@@ -18,7 +18,7 @@ def make_webdriver():
     return webdriver.Chrome(executable_path="/Users/wuhushi/Documents/wcd_Python/chromedriver")
 
 
-API_KEY = 'ADKJNQJAJZSQMS1CGEO5MTTCT0KJRYHB@AMER.OAUTHAP'
+API_KEY = '*********@AMER.OAUTHAP'
 URI = 'https://localhost'
 TOKEN_PATH = '/Users/wuhushi/Documents/wcd_Python/token.json'
 # Making client with above attributes for login flow
